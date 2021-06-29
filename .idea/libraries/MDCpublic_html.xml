@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MDCpublic_html">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MDCpublic_html.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
